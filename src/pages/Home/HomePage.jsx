@@ -13,7 +13,7 @@ const HomePage = () => {
   const slides = [
     {
       id: 1,
-      image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+      <img src="assets/images/home-slide-1.jpeg" alt="Slide 1">,
       title: 'Air Jordan edição especial',
       subtitle: 'Desconto de 30% em toda linha',
       buttonText: 'Ver ofertas',
@@ -21,8 +21,7 @@ const HomePage = () => {
     },
     {
       id: 2,
-      image: "https://images.unsplash.com/photo-1556906781-9a412961c28c?w=800&h=400&fit=crop",
-      title: 'Nova coleção Nike',
+      image: https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=800&h=400&fit=crop,
       subtitle: 'Lançamentos exclusivos',
       buttonText: 'Conferir',
       buttonLink: '/products'
