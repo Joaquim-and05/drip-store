@@ -13,7 +13,7 @@ const HomePage = () => {
   const slides = [
     {
       id: 1,
-      <img src="assets/images/home-slide-1.jpeg" alt="Slide 1">,
+      <img https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=800&h=400&fit=crop,
       title: 'Air Jordan edição especial',
       subtitle: 'Desconto de 30% em toda linha',
       buttonText: 'Ver ofertas',
@@ -366,4 +366,3 @@ const HomePage = () => {
 };
 
 export default HomePage;
-
