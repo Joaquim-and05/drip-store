@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/drip-store/static/css/main.5b5bcbc8.css",
-    "main.js": "/drip-store/static/js/main.cbb591ae.js",
-    "static/js/453.3c791e71.chunk.js": "/drip-store/static/js/453.3c791e71.chunk.js",
-    "index.html": "/drip-store/index.html",
-    "main.5b5bcbc8.css.map": "/drip-store/static/css/main.5b5bcbc8.css.map",
-    "main.cbb591ae.js.map": "/drip-store/static/js/main.cbb591ae.js.map",
-    "453.3c791e71.chunk.js.map": "/drip-store/static/js/453.3c791e71.chunk.js.map"
+    "main.css": "./static/css/main.5b5bcbc8.css",
+    "main.js": "./static/js/main.a22ad5a4.js",
+    "static/js/453.3c791e71.chunk.js": "./static/js/453.3c791e71.chunk.js",
+    "index.html": "./index.html",
+    "main.5b5bcbc8.css.map": "./static/css/main.5b5bcbc8.css.map",
+    "main.a22ad5a4.js.map": "./static/js/main.a22ad5a4.js.map",
+    "453.3c791e71.chunk.js.map": "./static/js/453.3c791e71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b5bcbc8.css",
-    "static/js/main.cbb591ae.js"
+    "static/js/main.a22ad5a4.js"
   ]
 }
